@@ -975,7 +975,6 @@ hr {
   clip: auto;
 }
 #header {
-  margin: 0px 5%;
   max-height: 60px;
 }
 #content {
@@ -6126,13 +6125,13 @@ a.list-group-item-danger.active:focus {
 .well .well-title.info {
   background: #3b81ba;
 }
-.well .well-title .success {
+.well .well-title.success {
   background: #62c462;
 }
-.well .well-title .warning {
+.well .well-title.warning {
   background: #e38928;
 }
-.well .well-title .danger {
+.well .well-title.danger {
   background: #ba403b;
 }
 .well .well-title-bottom {
@@ -6155,13 +6154,13 @@ a.list-group-item-danger.active:focus {
 .well .well-title-bottom.info {
   background: #3b81ba;
 }
-.well .well-title-bottom .success {
+.well .well-title-bottom.success {
   background: #62c462;
 }
-.well .well-title-bottom .warning {
+.well .well-title-bottom.warning {
   background: #e38928;
 }
-.well .well-title-bottom .danger {
+.well .well-title-bottom.danger {
   background: #ba403b;
 }
 .well-small .well-title {
@@ -6219,13 +6218,13 @@ a.list-group-item-danger.active:focus {
 .well-btn:hover.info {
   background: #3574a7;
 }
-.well-btn:hover .success {
+.well-btn:hover.success {
   background: #4fbd4f;
 }
-.well-btn:hover .warning {
+.well-btn:hover.warning {
   background: #d67c1c;
 }
-.well-btn:hover .danger {
+.well-btn:hover.danger {
   background: #a73935;
 }
 .well-btn a {
@@ -6234,13 +6233,13 @@ a.list-group-item-danger.active:focus {
 .well-btn.info {
   background: #2f6693;
 }
-.well-btn .success {
+.well-btn.success {
   background: #42b142;
 }
-.well-btn .warning {
+.well-btn.warning {
   background: #bf6f19;
 }
-.well-btn .danger {
+.well-btn.danger {
   background: #93332f;
 }
 .well-btn-right {
